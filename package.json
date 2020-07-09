@@ -5,6 +5,9 @@
   "scripts": {
     "start": "start http://localhost:3000 & node gugu.js"
   },
+  "dependencies": {
+    "express": "github:expressjs/express"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
