@@ -1,8 +1,9 @@
 {
   "name": "package",
   "version": "1.0.0",
+  "main": "gugu.js",
   "scripts": {
-    "start": "node gugu.js"
+    "start": "start http://localhost:3000 & node gugu.js"
   },
   "keywords": [],
   "author": "",
